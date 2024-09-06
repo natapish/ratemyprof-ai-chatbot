@@ -1,0 +1,100 @@
+{
+    "professors": [
+        {
+            "name": "Dr. Jane Smith",
+            "department": "Computer Science",
+            "courses_taught": [
+                {
+                    "course_code": "CS101",
+                    "course_name": "Introduction to Computer Science",
+                    "semester": "Fall 2023",
+                    "rating": 4.8,
+                    "difficulty": 3.0,
+                    "attendance_required": true,
+                    "review": "Dr. Smith is an excellent professor who explains concepts clearly. Her lectures are engaging, and she is always available for extra help."
+                },
+                {
+                    "course_code": "CS202",
+                    "course_name": "Data Structures",
+                    "semester": "Spring 2024",
+                    "rating": 4.5,
+                    "difficulty": 4.0,
+                    "attendance_required": true,
+                    "review": "The course is challenging, but Dr. Smith makes it manageable. Her assignments are tough but fair, and she provides great feedback."
+                }
+            ]
+        },
+        {
+            "name": "Dr. John Doe",
+            "department": "Mathematics",
+            "courses_taught": [
+                {
+                    "course_code": "MATH201",
+                    "course_name": "Calculus I",
+                    "semester": "Fall 2023",
+                    "rating": 3.7,
+                    "difficulty": 4.5,
+                    "attendance_required": false,
+                    "review": "Dr. Doe is very knowledgeable, but his lectures can be a bit dry. The material is difficult, so make sure to study hard."
+                },
+                {
+                    "course_code": "MATH305",
+                    "course_name": "Linear Algebra",
+                    "semester": "Spring 2024",
+                    "rating": 3.9,
+                    "difficulty": 4.2,
+                    "attendance_required": false,
+                    "review": "Linear Algebra is a tough subject, but Dr. Doe does a decent job of breaking down the material. However, he can be a bit unapproachable."
+                }
+            ]
+        },
+        {
+            "name": "Dr. Emily Johnson",
+            "department": "History",
+            "courses_taught": [
+                {
+                    "course_code": "HIST101",
+                    "course_name": "World History I",
+                    "semester": "Fall 2023",
+                    "rating": 4.2,
+                    "difficulty": 3.5,
+                    "attendance_required": true,
+                    "review": "Dr. Johnson is passionate about history and makes the subject interesting. She encourages class discussions and is open to different viewpoints."
+                },
+                {
+                    "course_code": "HIST202",
+                    "course_name": "Modern European History",
+                    "semester": "Spring 2024",
+                    "rating": 4.6,
+                    "difficulty": 3.8,
+                    "attendance_required": true,
+                    "review": "A very engaging professor. Dr. Johnson provides great insights and makes sure everyone understands the context of historical events."
+                }
+            ]
+        },
+        {
+            "name": "Dr. Robert Lee",
+            "department": "Physics",
+            "courses_taught": [
+                {
+                    "course_code": "PHYS101",
+                    "course_name": "General Physics I",
+                    "semester": "Fall 2023",
+                    "rating": 3.5,
+                    "difficulty": 4.7,
+                    "attendance_required": false,
+                    "review": "Dr. Lee is a tough grader, and the exams are very challenging. His lectures are clear, but the pace is fast. Be prepared to put in a lot of work."
+                },
+                {
+                    "course_code": "PHYS202",
+                    "course_name": "Electromagnetism",
+                    "semester": "Spring 2024",
+                    "rating": 3.8,
+                    "difficulty": 4.5,
+                    "attendance_required": false,
+                    "review": "Electromagnetism is a difficult course, and Dr. Lee expects a lot from his students. However, if you follow his lectures closely, you'll do fine."
+                }
+            ]
+        }
+    ]
+}
